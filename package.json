@@ -1,0 +1,12 @@
+{
+  "name": "ticket-backend",
+  "version": "0.0.1",
+  "description": "Ticket Monster Backend",
+  "main": "server.js",
+  "scripts": {
+    "run": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
